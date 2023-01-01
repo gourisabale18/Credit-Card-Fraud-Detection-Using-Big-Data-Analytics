@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66089699-608f-414d-98ba-8231a6fe2425" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/creditcard-tr-producer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/datamantra/producer/TransactionProducer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/datamantra/producer/TransactionProducer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/datamantra/producer/TransactionProducer$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/datamantra/producer/TransactionProducer$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/datamantra/producer/TransactionProducer$MyProducerCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/datamantra/producer/TransactionProducer$MyProducerCallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Alert Dashboard/fraud-alert-dashboard.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Alert Dashboard/src/main/java/com/datamantra/fraudalertdashboard/dashboard/FraudAlertDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Alert Dashboard/src/main/java/com/datamantra/fraudalertdashboard/dashboard/FraudAlertDashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Alert Dashboard/src/main/java/com/datamantra/fraudalertdashboard/vo/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Alert Dashboard/src/main/java/com/datamantra/fraudalertdashboard/vo/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Alert Dashboard/target/classes/com/datamantra/fraudalertdashboard/dashboard/FraudAlertDashboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Alert Dashboard/target/classes/com/datamantra/fraudalertdashboard/dashboard/FraudAlertDashboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Alert Dashboard/target/classes/com/datamantra/fraudalertdashboard/vo/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Alert Dashboard/target/classes/com/datamantra/fraudalertdashboard/vo/Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/FraudDetection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/build-files/spark/fruaddetection-spark.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/build-files/spark/fruaddetection-spark.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/data/.part-00000-84a46f3e-8d39-4210-b65a-8df3357f4df2-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/data/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/data/part-00000-84a46f3e-8d39-4210-b65a-8df3357f4df2-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/1_oneHot_87aac8463b13/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/1_oneHot_87aac8463b13/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/1_oneHot_87aac8463b13/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/data/.part-00000-d37d08cf-8b62-45c1-af28-39e8c3ee0fc4-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/data/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/data/part-00000-d37d08cf-8b62-45c1-af28-39e8c3ee0fc4-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/3_oneHot_ddc2e32ff762/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/3_oneHot_ddc2e32ff762/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/3_oneHot_ddc2e32ff762/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/data/.part-00000-c4fdf8eb-9ac8-499b-806e-e87da36bfa8c-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/data/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/data/part-00000-c4fdf8eb-9ac8-499b-806e-e87da36bfa8c-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/5_oneHot_73252c912ec5/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/5_oneHot_73252c912ec5/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/5_oneHot_73252c912ec5/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/6_vecAssembler_762e3d1a17fd/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/6_vecAssembler_762e3d1a17fd/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/PreprocessingModel/stages/6_vecAssembler_762e3d1a17fd/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00000-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00001-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00002-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00003-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00004-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00005-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00006-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00007-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00008-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00009-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00010-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00011-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00012-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00013-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00014-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/.part-00015-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00000-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00001-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00002-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00003-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00004-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00005-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00006-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00007-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00008-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00009-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00010-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00011-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00012-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00013-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00014-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/data/part-00015-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00000-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00001-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00002-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00003-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00004-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00005-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00006-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00007-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00008-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00009-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00010-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00011-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00012-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00013-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00014-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/.part-00015-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00000-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00001-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00002-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00003-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00004-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00005-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00006-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00007-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00008-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00009-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00010-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00011-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00012-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00013-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00014-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/src/main/resources/spark/training/RandomForestModel/treesMetadata/part-00015-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/cassandra/creditcard.cql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/cassandra/CassandraDriver$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/cassandra/CassandraDriver$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/cassandra/dao/CreditcardTransactionRepository$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/cassandra/dao/CreditcardTransactionRepository$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/cassandra/dao/KafkaOffsetRepository$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/cassandra/dao/KafkaOffsetRepository$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/cassandra/foreachSink/CassandraSinkForeach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/cassandra/foreachSink/CassandraSinkForeach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/testing/Streaming$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/classes/com/datamantra/testing/Streaming$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/metadata/.part-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/metadata/.part-00000.crc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/metadata/part-00000" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/metadata/part-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/data/.part-00000-84a46f3e-8d39-4210-b65a-8df3357f4df2-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/data/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/data/part-00000-84a46f3e-8d39-4210-b65a-8df3357f4df2-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/0_strIdx_4c6b94364554/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/1_oneHot_87aac8463b13/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/1_oneHot_87aac8463b13/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/1_oneHot_87aac8463b13/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/data/.part-00000-d37d08cf-8b62-45c1-af28-39e8c3ee0fc4-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/data/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/data/part-00000-d37d08cf-8b62-45c1-af28-39e8c3ee0fc4-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/2_strIdx_588956c3337a/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/3_oneHot_ddc2e32ff762/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/3_oneHot_ddc2e32ff762/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/3_oneHot_ddc2e32ff762/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/data/.part-00000-c4fdf8eb-9ac8-499b-806e-e87da36bfa8c-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/data/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/data/part-00000-c4fdf8eb-9ac8-499b-806e-e87da36bfa8c-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/4_strIdx_5e90ad3afe11/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/5_oneHot_73252c912ec5/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/5_oneHot_73252c912ec5/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/5_oneHot_73252c912ec5/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/6_vecAssembler_762e3d1a17fd/metadata/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/6_vecAssembler_762e3d1a17fd/metadata/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/PreprocessingModel/stages/6_vecAssembler_762e3d1a17fd/metadata/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00000-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00001-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00002-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00003-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00004-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00005-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00006-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00007-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00008-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00009-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00010-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00011-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00012-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00013-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00014-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/.part-00015-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00000-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00001-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00002-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00003-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00004-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00005-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00006-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00007-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00008-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00009-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00010-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00011-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00012-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00013-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00014-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/data/part-00015-3990278e-ca52-4e9e-ab7b-c0b6ffc8e644-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/metadata/.part-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/metadata/.part-00000.crc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/metadata/part-00000" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/metadata/part-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00000-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00001-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00002-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00003-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00004-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00005-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00006-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00007-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00008-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00009-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00010-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00011-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00012-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00013-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00014-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/.part-00015-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00000-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00001-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00002-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00003-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00004-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00005-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00006-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00007-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00008-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00009-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00010-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00011-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00012-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00013-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00014-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/classes/spark/training/RandomForestModel/treesMetadata/part-00015-45fdca23-180d-481d-b4de-c93f0f3d5485-c000.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/original-fruaddetection-spark.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/original-fruaddetection-spark.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fraud Detection/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Fraud Detection/target/surefire-reports/TestSuite.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2IF4nDYCWsSWFWeS1yaelQ3RkCm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Personal Work ADM/JandJFraudDetection/Creditcard Producer"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Personal Work ADM\JandJFraudDetection\Creditcard Producer\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TransactionProducer" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="com.datamantra.producer.TransactionProducer" />
+      <module name="creditcard-tr-producer" />
+      <option name="PROGRAM_PARAMETERS" value="src/main/resources/application-local.conf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datamantra.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TransactionProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66089699-608f-414d-98ba-8231a6fe2425" name="Changes" comment="" />
+      <created>1669764164733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669764164733</updated>
+      <workItem from="1669764166109" duration="986000" />
+      <workItem from="1669776967400" duration="854000" />
+      <workItem from="1669777838794" duration="16000" />
+      <workItem from="1669789591035" duration="1593000" />
+      <workItem from="1669837816123" duration="578000" />
+      <workItem from="1669838509031" duration="666000" />
+      <workItem from="1669864400188" duration="1325000" />
+      <workItem from="1669945955987" duration="316000" />
+      <workItem from="1669952172388" duration="284000" />
+      <workItem from="1669952637112" duration="626000" />
+      <workItem from="1669971174806" duration="1229000" />
+      <workItem from="1670448160529" duration="6735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
