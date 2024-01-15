@@ -166,33 +166,33 @@ Cmd for Topic creation:
 
 
 ### Execution Steps for Project are as follows:
-Start cassandra server
+1. Start cassandra server
 Cassandra   -f
 
 ![scala7](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/ff9522a4-4643-4c71-8ef1-9bfad3373cbc)
 
-Start zookeeper server
+2. Start zookeeper server
 Go to the kafka root directory and open cmd from that explorer and run command:
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 
 ![scala6](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/e07765a6-a4ac-42db-82a4-489048c0a952)
 
 
-Start Kafka Server
+3. Start Kafka Server
 Run following command from kafka root directory
 .\bin\windows\kafka-server-start.bat .\config\server.properties
 
 ![scala4](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/86a18643-46b4-42ef-9a65-b78de8796349)
 
-Choose Credit Card Transaction Consumer and Fraud Detection module into a new project window
+4. Choose Credit Card Transaction Consumer and Fraud Detection module into a new project window
 Run the scala file
 IntialImportToCassandra.scala
 
-Run the scala file 
+5. Run the scala file 
 FraudDetectionTraining.scala
 
 
-Run the scala file
+6. Run the scala file
 
  DstreamFraudDetection.scala
 OR
@@ -201,18 +201,19 @@ OR
 ![scala3](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/d42df3fa-49e8-4feb-ab49-c1ea456fdfdc)
 
 
-Choose Credit Card Transaction Producer module into a new project window
+7. Choose Credit Card Transaction Producer module into a new project window
  Run the scala file 
 TransactionProducer.scala
 
 ![scala2](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/a9525e7a-ac51-4a0e-8cb3-3b91dde47afd)
 
-Choose Real time Fraud Alert Dashboard module into a new project window
+8. Choose Real time Fraud Alert Dashboard module into a new project window
  Run the scala file TransactionProducer.scala
  
 ![scala](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/aba7c4fa-be6c-4500-aff9-d04f025b259c)
 
 ### Test Results
+
 
 
 ![result1](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/c9af35b9-cdae-4cf8-b43e-1eb83450f572)
