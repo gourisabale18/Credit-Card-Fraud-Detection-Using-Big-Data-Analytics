@@ -214,7 +214,11 @@ TransactionProducer.scala
 
 ### Test Results
 
+#### Dashboard for Non Fraudulent Transactions:
 
+![Capture22](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/f73a4d9d-b9c6-4515-ab0d-68c396299324)
+
+#### Dashboard for Fraudulent Transactions:
 
 ![result1](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/c9af35b9-cdae-4cf8-b43e-1eb83450f572)
 
