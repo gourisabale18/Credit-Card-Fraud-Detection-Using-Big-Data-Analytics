@@ -88,19 +88,18 @@ Read the analysis results from Cassandra.
 Display fraudulent and non fraudulent credit card transactions on a real time fraud alert dashboard.
 
 
-### Deployment Instructions
+### Create Database and Kafka Topics
 
-
-1)Install Cassandra db on your file system.
-2)Start the cassandra server from the cmd prompt using the following command.
-cassandra -f
-3)Connect to Cassandra db using cqlsh
-Open cmd line and type cqlsh
-4)Create keyspace 
+1. Install Cassandra db on your file system.
+2. Start the cassandra server from the cmd prompt using the following command.
+      cassandra -f
+3. Connect to Cassandra db using cqlsh
+4. Open cmd line and type cqlsh
+5. Create keyspace 
  CREATE KEYSPACE creditcard WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 1 };
-5)Create db table on cassandra
-use creditcard; //use creditcard keyspace
-6)Execute following scripts to create tables
+6. Create db table on cassandra
+       use creditcard; //use creditcard keyspace
+7. Execute following scripts to create tables
 CREATE TABLE fraud_transaction (
   cc_num text,
   trans_time timestamp,
@@ -151,18 +150,18 @@ CREATE TABLE IF NOT EXISTS customer (
   dob timestamp,
   PRIMARY KEY(cc_num)
 );
-7)Install Apache Kafka
-8)Go to Kafka Config folder (E:\kafka\config) and open server.properties file
-Update the attribute log.dirs to following value
-log.dirs=E:/kafka/kafka-logs
-Open zookeeper.properties file and update the property dataDir to the following value.
-dataDir=E:/zookeeper
-Change zookeeper.properties data dir to kafka location
-9)Create Topic: Go to the Kafka root directory and start kafka server and zookeeper server from two different cmd windows
-.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
-.\bin\windows\kafka-server-start.bat .\config\server.properties
-Cmd for Topic creation:
-.\bin\windows\kafka-topics.bat --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic TestTopic
+8. Install Apache Kafka
+9. Go to Kafka Config folder (E:\kafka\config) and open server.properties file
+      Update the attribute log.dirs to following value
+     log.dirs=E:/kafka/kafka-logs
+     Open zookeeper.properties file and update the property dataDir to the following value.
+     dataDir=E:/zookeeper
+Change zookeeper.properties data dir to kafka location.
+10. Create Topic: Go to the Kafka root directory and start kafka server and zookeeper server from two different cmd windows
+     .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+     .\bin\windows\kafka-server-start.bat .\config\server.properties
+    Cmd for Topic creation:
+      .\bin\windows\kafka-topics.bat --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic TestTopic
 
 
 ### Execution Steps for Project are as follows:
