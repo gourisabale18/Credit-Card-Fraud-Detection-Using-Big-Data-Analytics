@@ -52,9 +52,10 @@ Save the results of predictions into the Cassandra database.
 Read the analysis results from Cassandra. 
 Display fraudulent and non fraudulent credit card transactions on a real time fraud alert dashboard.
 
+#### Architecture and Design
 
 
-
+![kafka](https://github.com/gourisabale18/Credit-Card-Fraud-Detection-Using-Big-Data-Analytics/assets/24734082/cc40c6c5-1e92-4275-8c23-dd4d669ec821)
 
 
 
