@@ -99,65 +99,66 @@ Display fraudulent and non fraudulent credit card transactions on a real time fr
  CREATE KEYSPACE creditcard WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 1 };
 6. Create db table on cassandra
        use creditcard; //use creditcard keyspace
-7. Execute following scripts to create tables
-CREATE TABLE fraud_transaction (
-  cc_num text,
-  trans_time timestamp,
-  trans_num text,
-  category text,
-  merchant text,
-  amt double,
-  merch_lat double,
-  merch_long double,
-  distance double,
-  age int,
-  is_fraud double,
-  PRIMARY KEY(cc_num, trans_time)
-)WITH CLUSTERING ORDER BY (trans_time DESC);
+7. Execute following scripts to create tables:
+   
+     CREATE TABLE fraud_transaction (
+       cc_num text,
+       trans_time timestamp,
+       trans_num text,
+       category text,
+       merchant text,
+       amt double,
+       merch_lat double,
+       merch_long double,
+       distance double,
+       age int,
+       is_fraud double,
+       PRIMARY KEY(cc_num, trans_time)
+     )WITH CLUSTERING ORDER BY (trans_time DESC);
 
-CREATE TABLE non_fraud_transaction (
-  cc_num text,
-  trans_time timestamp,
-  trans_num text,
-  category text,
-  merchant text,
-  amt double,
-  merch_lat double,
-  merch_long double,
-  distance double,
-  age int,
-  is_fraud double,
-  PRIMARY KEY(cc_num, trans_time)
-)WITH CLUSTERING ORDER BY (trans_time DESC);
-CREATE TABLE IF NOT EXISTS kafka_offset (
-  partition int,
-  offset bigint,
-  PRIMARY KEY(partition)
-);
+      CREATE TABLE non_fraud_transaction (
+        cc_num text,
+        trans_time timestamp,
+        trans_num text,
+        category text,
+        merchant text,
+        amt double,
+        merch_lat double,
+        merch_long double,
+        distance double,
+        age int,
+        is_fraud double,
+        PRIMARY KEY(cc_num, trans_time)
+      )WITH CLUSTERING ORDER BY (trans_time DESC);
+      CREATE TABLE IF NOT EXISTS kafka_offset (
+        partition int,
+        offset bigint,
+        PRIMARY KEY(partition)
+      );
 
-CREATE TABLE IF NOT EXISTS customer (
-  cc_num text,
-  first text,
-  last text,
-  gender text,
-  street text,
-  city text,
-  state text,
-  zip text,
-  lat double,
-  long double,
-  job text,
-  dob timestamp,
-  PRIMARY KEY(cc_num)
-);
-8. Install Apache Kafka
-9. Go to Kafka Config folder (E:\kafka\config) and open server.properties file
+     CREATE TABLE IF NOT EXISTS customer (
+       cc_num text,
+       first text,
+       last text,
+       gender text,
+       street text,
+       city text,
+       state text,
+       zip text,
+       lat double,
+       long double,
+       job text,
+       dob timestamp,
+       PRIMARY KEY(cc_num)
+     );
+9. Install Apache Kafka
+10.   Go to Kafka Config folder (E:\kafka\config) and open server.properties file
       Update the attribute log.dirs to following value
      log.dirs=E:/kafka/kafka-logs
      Open zookeeper.properties file and update the property dataDir to the following value.
      dataDir=E:/zookeeper
 Change zookeeper.properties data dir to kafka location.
-10. Create Topic: Go to the Kafka root directory and start kafka server and zookeeper server from two different cmd windows
+11. Create Topic: Go to the Kafka root directory and start kafka server and zookeeper server from two different cmd windows
      .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
      .\bin\windows\kafka-server-start.bat .\config\server.properties
     Cmd for Topic creation:
