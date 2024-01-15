@@ -152,16 +152,16 @@ Display fraudulent and non fraudulent credit card transactions on a real time fr
        PRIMARY KEY(cc_num)
      );
 9. Install Apache Kafka
-10.   Go to Kafka Config folder (E:\kafka\config) and open server.properties file
-      Update the attribute log.dirs to following value
-     log.dirs=E:/kafka/kafka-logs
-     Open zookeeper.properties file and update the property dataDir to the following value.
-     dataDir=E:/zookeeper
-Change zookeeper.properties data dir to kafka location.
-11. Create Topic: Go to the Kafka root directory and start kafka server and zookeeper server from two different cmd windows
+10. Go to Kafka Config folder (E:\kafka\config) and open server.properties file and update the attribute log.dirs to following value.
+         log.dirs=E:/kafka/kafka-logs
+ 
+11.   Open zookeeper.properties file and update the property dataDir to the following value.
+         dataDir=E:/zookeeper
+12. Change zookeeper.properties data dir to kafka location.
+13. Create Topic: Go to the Kafka root directory and start kafka server and zookeeper server from two different cmd windows
      .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
      .\bin\windows\kafka-server-start.bat .\config\server.properties
-    Cmd for Topic creation:
+14.  Cmd for Topic creation:
       .\bin\windows\kafka-topics.bat --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic TestTopic
 
 
