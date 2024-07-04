@@ -2,13 +2,13 @@
 ## Credit Card Fraud Detection Using Real Time Big Data Analytics
 
 ## Technolgoies and Langauges Used:
-Java/ Spring Boot, Python, Scala
-Apache Kafka
-Zookeeper
-Apache Spark
-Javascript,HTML,CSS
-Cassandra, NoSQL,SQL
-Random Forest, K mean ML algorithms
+### Java/ Spring Boot, Python, Scala
+### Apache Kafka
+### Zookeeper
+### Apache Spark
+### Javascript,HTML,CSS
+### Cassandra, NoSQL,SQL
+### Random Forest, K mean ML algorithms
 
 
 ### Overview 
