@@ -1,6 +1,10 @@
 
 ## Credit Card Fraud Detection Using Real Time Big Data Analytics
 
+### Overview 
+
+This project aims to develop a real-time big data analytics application that is used for Credit Card Fraud Detection. As a part of this project, we will perform real-time data processing of Credit Card Transactions using Apache Kafka Streaming. We will detect fraudulent transactions using Apache Spark and Machine Learning Algorithms and make predictions by learning from historical data. The results of fraudulent transactions and normal transactions would be displayed in the form of alerts on intelligent Dashboards.
+
 ## Technolgoies and Langauges Used:
 1. Java/ Spring Boot, Python, Scala
 2. Apache Kafka, Avro Schema
@@ -9,11 +13,6 @@
 5. Javascript,HTML,CSS
 6. Cassandra, NoSQL,SQL
 7. Random Forest, K mean ML algorithms
-
-
-### Overview 
-
-This project aims to develop a real-time big data analytics application that is used for Credit Card Fraud Detection. As a part of this project, we will perform real-time data processing of Credit Card Transactions using Apache Kafka Streaming. We will detect fraudulent transactions using Apache Spark and Machine Learning Algorithms and make predictions by learning from historical data. The results of fraudulent transactions and normal transactions would be displayed in the form of alerts on intelligent Dashboards.
 
 ### Functionalities
 
